@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="a_2_points">+2 Pontos</string>
+    <string name="a_3_points">+3 Pontos</string>
+    <string name="a_free_throw">Chute Livre</string>
+    <string name="b_2_points">+2 Pontos</string>
+    <string name="b_3_points">+3 Pontos</string>
+    <string name="b_free_throw">Chute Livre</string>
+    <string name="reset">Zerar</string>
+    <string name="team_a">Time A</string>
+    <string name="team_b">Time B</string>
+</resources>
